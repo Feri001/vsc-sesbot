@@ -1,10 +1,10 @@
 {
-    "token": "discordbottokeniniz",
-    "guildId": "sunucuidniz",
-    "voiceChannelId": "seskanaliidniz",
+    "token": "MTM5Mzk2MDEyNDkzNDI2MjgyNA.GVFbnM.Kxi4cWxPMg5jLMpzuV6fJBgdxZvdlFjrTe1Aw8",
+    "guildId": "1392455971619737610",
+    "voiceChannelId": "1393837207353163848",
     "activity": [
-        { "name": "Sizi", "type": "LISTENING" },
-        { "name": "Hayatımla", "type": "PLAYING" },
-        { "name": "Seni", "type": "WATCHING" }
+        { "name": "feri_00", "type": "LISTENING" },
+        { "name": "TRFAMILY", "type": "PLAYING" },
+        { "name": "TRFAMILY", "type": "WATCHING" }
     ]
 }
